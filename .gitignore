@@ -2,7 +2,7 @@ powerpump.txt
 sticky-tities.txt
 # Local .terraform directories
 **/.terraform/*
-gitignore
+*gitignore*
 test.md
 # .tfstate files
 *.tfstate
